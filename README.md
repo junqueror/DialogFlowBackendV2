@@ -1,1 +1,2 @@
-# DialogFlowBackendV2
+# DialogFlow Backend
+A Python backend for DialoFlow
